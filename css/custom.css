@@ -217,6 +217,9 @@ form {
   .elemento2 {
     font-size: 1rem;
   }
+  .elemento2 {
+    padding: 0 0.3rem;
+  }
   .bienvenida {
     font-size: 1.5rem;
   }
