@@ -215,10 +215,7 @@ form {
 
 @media (max-width: 500px) {
   .centro {
-    height: 5.2rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    height: 9rem;
   }
   #demo {
     font-size: 1rem;
