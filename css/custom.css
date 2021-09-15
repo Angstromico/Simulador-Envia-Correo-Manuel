@@ -215,7 +215,7 @@ form {
 
 @media (max-width: 500px) {
   .centro {
-    height: 12rem;
+    height: 5rem;
   }
   #demo {
     font-size: 1rem;
@@ -224,7 +224,8 @@ form {
     font-size: 1rem;
   }
   .elemento2 {
-    padding: 0 0.3rem;
+    /*padding: 0 0.3rem;*/
+    padding: 0.5rem 0.8rem;
     width: 10rem;
   }
   .bienvenida {
