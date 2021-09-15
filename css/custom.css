@@ -214,9 +214,6 @@ form {
 }
 
 @media (max-width: 500px) {
-  .centro {
-    height: 5.2rem;
-  }
   #demo {
     font-size: 1rem;
   }
