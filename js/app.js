@@ -9,7 +9,7 @@ const reset = document.getElementById('resetBtn')
 const inputs = [email, asunto, mensaje]
 const centro = document.querySelector('.centro')
 const typing = document.getElementById('demo')
-console.log(centro)
+
 //EventListeners
 eventListeners()
 function eventListeners() {
@@ -192,3 +192,6 @@ setTimeout(() => {
     fade(typing)
   }, 4000)
 }, 26000)
+setTimeout(() => {
+  centro.remove()
+}, 36000)
